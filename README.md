@@ -1,2 +1,2 @@
-#Asset Model
-This asset model demonstrates the way in which stocks move.
+#Vasicek Model
+This Vasicek model demonstrates the way in which interest rates move.
